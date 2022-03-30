@@ -3,3 +3,5 @@
 - must have those folders
 - must have python3.7
 - must have tensorflow and all dependencies such as pandas, matplotlib, and numpy
+
+## will update with more info and notes soon!
