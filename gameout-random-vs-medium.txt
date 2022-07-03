@@ -46,3 +46,4 @@ Random Result.Defeat
 Random Result.Defeat
 Random Result.Victory
 Random Result.Defeat
+Random Result.Defeat

@@ -9,7 +9,8 @@ import numpy as np
 import os
 import time
 import math
-import keras
+#import keras -also a solution is to install tenserflow-gpu
+from tensorflow import keras
 
 #os.environ["SC2PATH"] = '/starcraftstuff/StarCraftII/'
 HEADLESS = False
